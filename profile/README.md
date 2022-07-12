@@ -4,7 +4,9 @@
 
 ℹ️ La solution pour avoir tous les outils nécessaires pour vous, professionnel de la santé, et tout cela gratuitement !
 
-## Technologies Utilisées - Front-end 🎨
+<img width="350" alt="Logo" src="https://user-images.githubusercontent.com/78353572/178449126-73f88d52-8f0c-4131-8b56-3237a378e3fa.png">
+
+## Technologies utilisées - Front-end 🎨
 
 ### ✨ Languages
 
@@ -17,7 +19,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)&nbsp;
 
-## Technologies Utilisées - Back-end 🛠
+## Technologies utilisées - Back-end 🛠
 
 ### Languages ⌨️
 
