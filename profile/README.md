@@ -4,7 +4,7 @@
 
 ℹ️ La solution pour avoir tous les outils nécessaires pour vous, professionnel de la santé, et tout cela gratuitement !
 
-<img width="350" alt="Logo" src="https://user-images.githubusercontent.com/78353572/178449126-73f88d52-8f0c-4131-8b56-3237a378e3fa.png">
+<img width="350" alt="Logo" src="https://user-images.githubusercontent.com/78353572/192479620-111f1d19-62c4-4a6d-a292-a1a22bf1d694.png">
 
 ## Technologies utilisées - Front-end 🎨
 
@@ -16,8 +16,8 @@
 
 ### 🚀 Frameworks
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)&nbsp;
 
 ## Technologies utilisées - Back-end 🛠
 
@@ -28,7 +28,6 @@
 ### Frameworks ⚙️
 
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)&nbsp;
 
 ### Databases 🐳
 
