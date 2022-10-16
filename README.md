@@ -10,12 +10,12 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;
 
 ### 🚀 Frameworks
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)&nbsp;
 
 ## Technologies Utilisées - Back-end 🛠
 
@@ -26,7 +26,6 @@
 ### Frameworks ⚙️
 
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)&nbsp;
 
 ### Databases 🐳
 
